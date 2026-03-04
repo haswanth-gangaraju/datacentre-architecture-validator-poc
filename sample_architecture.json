@@ -1,0 +1,12 @@
+{
+  "proposal_name": "London Edge Expansion - Phase 1",
+  "region": "London",
+  "power_redundancy": "N",
+  "network_redundancy": "single",
+  "power_headroom_percent": 12,
+  "cooling_headroom_percent": 11,
+  "has_hld": true,
+  "has_lld": false,
+  "includes_iac_plan": false,
+  "includes_failover_test_plan": false
+}
